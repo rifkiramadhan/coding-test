@@ -1,6 +1,6 @@
 # Client Side
 
-## Cara Instalelasi
+## Cara Installasi
 
 - yarn create react-app mern-blog
   - Untuk menginstall react js dengan nama folder mern-blog
